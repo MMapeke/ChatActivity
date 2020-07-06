@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatActivity</string>
+    <string name="send">Send</string>
+    <string name="type_ur_msg">type ur msg</string>
+    <string name="profile_me">My Profile Pic</string>
+    <string name="profile_other">Other profile pic</string>
+</resources>
